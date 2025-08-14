@@ -20,8 +20,8 @@ A **Node.js CLI tool** to download YouTube videos or playlists in **video (up to
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/yt-downloader-ultra-pro.git
-   cd yt-downloader-ultra-pro
+   git clone https://github.com/ByteDataFlow/Youtube-Downloader
+   cd Youtube-Downloader
 
 2. **Install dependencies**
     ```bash
